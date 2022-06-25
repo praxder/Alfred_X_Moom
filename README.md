@@ -25,4 +25,4 @@ Switch between Moom snapshots (layouts) with Alfred
 Currently, the workflow will not work properly if your snapshot names have a comma in them.
 
 ## License
-[GNU GENERAL PUBLIC LICENSE](https://www.google.com)
+[GNU GENERAL PUBLIC LICENSE](https://github.com/AdamNSmith/Alfred_X_Moom/blob/main/LICENSE.md)
