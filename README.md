@@ -18,8 +18,7 @@ Switch between Moom snapshots (layouts) with Alfred
 2. Use arrow keys to select desired snapshot
 3. Hit enter
 
-![Encode](screenshots/Encode.png)
-![Decode](screenshots/Decode.png)
+![Alfred](screenshots/screenshot.png)
 
 ## Future Work / Issues
 Currently, the workflow will not work properly if your snapshot names have a comma in them.
